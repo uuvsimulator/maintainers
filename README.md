@@ -1,7 +1,5 @@
 # Maintainers
 
-## Infrastructrure
+Welcome to the UUV Simulator's project maintainers workspace.
 
-### Release process
-
-## Accepting pull requests
+Please visit the [wiki](https://github.com/uuvsimulator/maintainers/wiki) for the documentation.
