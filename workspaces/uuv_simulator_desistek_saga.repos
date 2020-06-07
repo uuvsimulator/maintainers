@@ -1,0 +1,9 @@
+repositories:
+  desistek_saga:
+    type: git
+    url: git@github.com:uuvsimulator/desistek_saga.git
+    version: master
+  uuv_simulator:
+    type: git
+    url: git@github.com:uuvsimulator/uuv_simulator.git
+    version: master

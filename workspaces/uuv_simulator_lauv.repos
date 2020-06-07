@@ -1,0 +1,9 @@
+repositories:
+  lauv_gazebo:
+    type: git
+    url: git@github.com:uuvsimulator/lauv_gazebo.git
+    version: master
+  uuv_simulator:
+    type: git
+    url: git@github.com:uuvsimulator/uuv_simulator.git
+    version: master

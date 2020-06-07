@@ -1,0 +1,9 @@
+repositories:
+  rexrov2:
+    type: git
+    url: git@github.com:uuvsimulator/rexrov2.git
+    version: master
+  uuv_simulator:
+    type: git
+    url: git@github.com:uuvsimulator/uuv_simulator.git
+    version: master

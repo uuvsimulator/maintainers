@@ -1,0 +1,9 @@
+repositories:
+  uuv_plume_simulator:
+    type: git
+    url: git@github.com:uuvsimulator/uuv_plume_simulator.git
+    version: master
+  uuv_simulator:
+    type: git
+    url: git@github.com:uuvsimulator/uuv_simulator.git
+    version: master
